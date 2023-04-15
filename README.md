@@ -1,5 +1,5 @@
 # musical-practice-stuff
-This a test repository for the creation of my music project.
+A repository for the creation of my musical project.
 
 It's intended purpose was to be a useful program that I could use in my own personal downtime when practicing guitar, creating music, or just wanting to brush up
 on some music theory. It was also created to help me learn Python and be able to put what I learned into practice because the class material I've been trying to 
