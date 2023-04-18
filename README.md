@@ -1,8 +1,9 @@
 # musical-practice-stuff
-A repository for the creation of my musical project.
+A repository aimed to combine my knowledge and findings of music with a way to practice learning Python.
 
 Its intended purpose was to be a useful program that I could use in my own personal downtime when practicing guitar, creating music, or just wanting to brush up
-on some music theory. It was also created to help me learn Python and be able to put what I learned into practice because the class material I've been trying to 
-learn through college has been nothing short of infuriating and unnecessarily complicated. I've learned far more through YouTube videos and other free content than I
-have from an incredibly pricey eTextbook that doesn't present the names for terms until HALFWAY through the material. Anyway, rant over. I've super behind in that
-class and I'm either gonna have to retake it, or try to pursue programming outside of college somehow.
+on some music theory.
+
+FOR EXPERIENCED PYTHON USERS: Please note that in the first version of the program, I 100% recognize that there is a lot of unnecessary nesting that can be avoided by
+defining functions and whatnot. This was easily the first/biggest script I've created using an idea I came up with on my own, and considering I've only created a handful of really small scripts, I'd say that's a valid excuse for why I still have so much nesting going on. I do plan on updating this program somewhat frequently to keep
+practicing and improving with Python, and I do want to restructure main script for easier reading/cleaner code.  
