@@ -1,7 +1,7 @@
 # musical-practice-stuff
 A repository aimed to combine my knowledge and findings of music with a way to practice learning Python.
 
-Its intended purpose was to be a useful program that I could use in my own personal downtime when practicing guitar, creating music, or just wanting to brush up
+Its intended purpose was to house useful programs that I could use in my own personal downtime when practicing guitar, creating music, or just wanting to brush up
 on some music theory. For version 1.0.0, please install Python 3.11 or newer here: https://www.python.org/downloads/release/python-3110/ 
 To run program, simply open folder, right click rizzless_guitar_guide, and open with Python 3.11 (or newer).
 
