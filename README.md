@@ -5,4 +5,4 @@ Its intended purpose was to house useful programs that I could use in my own per
 on some music theory. Please install Python 3.11 or newer here: https://www.python.org/downloads/release/python-3110/.
 To run program, simply navigate to src/rizzless_guitar_guide, right click 'guide', and open with Python 3.11 (or newer).
 
-FOR EXPERIENCED PYTHON CODE READERS: Please note that in 1.0.0, I 100% recognize that there is a lot of unnecessary nesting that can be avoided. I'm in the process of restructuring everything for easier code maintainance/reading. I'm in the process of finishing up 1.1.0, which removes all of the unnecessary nesting, I just gotta fix a couple bugs before I package and release it. Feel free to DM me @captainrizzless on Twitter if you're interested in joining the project and want to help debug or contribute ideas.
+Version 1.0.0 can be installed from PyPI, once I figure out why 1.1.0 doesn't work when installing from TestPyPI, I'll upload it there also. Feel free to DM me @captainrizzless on Twitter if you're interested in joining the project and want to help debug or contribute ideas.
